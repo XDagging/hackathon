@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Afacad&family=Playpen+Sans&family=Rubik+Doodle+Triangles&display=swap');
+
+
+.font-doodle {
+    font-family: "Rubik Doodle Triangles", "sans-serif"
+}
+
+.font-afacad {
+    font-family: "Afacad", "sans-serif";
+}
+
+
+.font-playpen {
+    font-family: "Playpen Sans", "sans-serif";
+}
